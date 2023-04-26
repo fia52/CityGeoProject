@@ -1,4 +1,7 @@
-city_geo_project/city_geo_project/settings.py
 .idea/
 __pycache__/
 venv/
+.env
+docker-compose.yaml
+dockerfile
+gunicorn.conf.py
